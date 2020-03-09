@@ -18,16 +18,13 @@ AC = print(random.choice(Accounts))
 
 os.system("clear")
 os.system("toilet -fmono12 -F gay SPOTIFY ")
-statrup = """
-      ██████████████████████████████████████████████████████████████
-      ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
-      ██        Code Made by github.com/HACK3RY2J                 ██
-      ██   Youtube : https://www.youtube.com/c/PandaHackers       ██
-      ██ Instagram : https://instagram.com/Panda_Hackers_Official ██
-      ██████████████████████████████████████████████████████████████
-      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-          """
-print(random.choice(colors) + startup + W)
+print("██████████████████████████████████████████████████████████████")
+print("██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██")
+print("██        Code Made by github.com/HACK3RY2J                 ██")
+print("██   Youtube : https://www.youtube.com/c/PandaHackers       ██")
+print("██ Instagram : https://instagram.com/Panda_Hackers_Official ██")
+print("██████████████████████████████████████████████████████████████")
+print("▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒")
 print()
 print("Free Spotify Account Generator")
 print("Last Updated On 10/03/2020")
