@@ -29,13 +29,8 @@ print()
 print("Free Spotify Account Generator")
 print("Last Updated On 10/03/2020")
 print()
-op = input("Type YES To Generate Account")
-if op == "YES" :
+op = input("Type 1 To Generate Account : ")
+if op == "1" :
     print(AC)
 else :
    print(" Enter a valid option... ")
-
-print()
-print(input('Press Enter To Exit...'))
-os.system('rm *xxx* > /dev/null 2>&1')
-exit()
