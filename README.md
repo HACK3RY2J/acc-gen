@@ -1,2 +1,6 @@
-# spotify-gen
-Generate Free Spotify Premium Accounts
+#    ___   ____________     ______         
+#   /   | / ____/ ____/    / ____/__  ____ 
+#  / /| |/ /   / /  ______/ / __/ _ \/ __ \
+# / ___ / /___/ /__/_____/ /_/ /  __/ / / /
+#/_/  |_\____/\____/     \____/\___/_/ /_/ 
+Generate Free Premium Accounts
